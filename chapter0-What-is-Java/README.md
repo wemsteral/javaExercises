@@ -1,9 +1,7 @@
 # Chapter0-What-is-Java
 
-```
-The bigger polemic in languages today is probably whether they are statically or dynamically typed.
-Which is to say not how fast will they run, but will the errors be found by the compiler beforehand (at the cost of the programmer having to specify pretty complex typing information) or will the errors come up in testing and production.
-```
+> The bigger polemic in languages today is probably whether they are statically or dynamically typed. Which is to say not how fast will they run, but will the errors be found by the compiler beforehand (at the cost of the programmer having to specify pretty complex typing information) or will the errors come up in testing and production.
+
 
 ## Learning objectives
 
